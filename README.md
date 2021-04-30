@@ -1,0 +1,1 @@
+This is app is a two player game. Each player can roll the die by clicking on it. Each player can roll the die as many times as they like, but they don't get any points for their turn if they roll a one. They can choose to pass the die whenever they'd like. First player to earn 100 points wins.
