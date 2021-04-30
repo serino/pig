@@ -1,0 +1,14 @@
+#dieSquare {
+  width: 125px;
+  height: 125px;
+  border: solid;
+}
+
+#playerOneParagraph {
+  color: red;
+}
+
+#switchPlayerButton {
+  color: red;
+  display: none;
+}
